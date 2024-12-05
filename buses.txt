@@ -1,0 +1,5 @@
+br06,muz,delhi,8:00,10:00,50,21
+br04,muz,delhi,10:00,21:00,50,2
+101,muzaffarfpur,patna,1:00AM,3:00AM,50,45
+103,muzaffarfpur,patna,6:00PM,3:00PM,50,40
+BR0653,SUJAWALPUR ,MUZAFFAFRPUR,10:00AM,9:00PM,50,40
